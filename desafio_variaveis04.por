@@ -4,6 +4,6 @@ programa {
     precoProduto1 = 120.00
     precoProduto2= 80.00
     precoTotal = precoProduto1 + precoProduto2
-    escreva("O preço dos produtos são: ", precoTotal)
+    escreva("O preço dos produtos são: R$", precoTotal)
   }
 }
