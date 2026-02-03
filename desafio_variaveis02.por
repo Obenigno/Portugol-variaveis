@@ -4,6 +4,6 @@ programa {
     precoOriginal = 150.00
     desconto = 20.00
   precoFinal = precoOriginal - desconto
-  escreva("Esta aqui senhor, seu pedido deu: ", precoFinal)
+  escreva("Esta aqui senhor, seu pedido deu: R$ ", precoFinal)
   }
 }
