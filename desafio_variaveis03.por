@@ -4,7 +4,7 @@ programa {
   precoOriginal = 250.00
   desconto = 50.00
   precoFinal = precoOriginal - desconto
-  escreva("O preço é: ", precoFinal)
+  escreva("O preço é: R$", precoFinal)
 
   }
 }
